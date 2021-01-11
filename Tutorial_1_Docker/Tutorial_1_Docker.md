@@ -41,7 +41,7 @@ Esta herramienta puede cambiar la vida diaria de un desarrollador. Para responde
 -   Se acabaron las dificultades para crear tu entorno de trabajo. Una vez que Docker está configurado, nunca tendrás que reinstalar dependencias manualmente. Si cambias de ordenador o llega un nuevo empleado, sólo tienes que darle tu configuración.
 -   Mantienes tu espacio de trabajo limpio, ya que tus entornos estarán aislados y puedes borrarlos en cualquier momento sin impactar al resto.
 -   Facilita desplegar tu proyecto en tu servidor para ponerlo en línea.
-- # Creemos nuestra primera aplicación
+-  Creemos nuestra primera aplicación
 
 Ahora que ya sabes qué es Docker, es el momento de crear tu primera aplicación.
 
